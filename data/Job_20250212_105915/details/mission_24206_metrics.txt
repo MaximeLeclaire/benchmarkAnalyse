@@ -1,0 +1,14 @@
+Mission Information:
+-------------------
+Mission ID: 24206:
+Number of Leads: 950
+Mission is Hybrid: False
+Mission Customer Id: 1086
+Mission from active customer:False
+
+Performance Metrics:
+-------------------
+FilterLoading: 0ms
+ReservationStatusUpdate: 570ms
+DeathStatusUpdate: 125ms
+Total Mission Time: 695ms

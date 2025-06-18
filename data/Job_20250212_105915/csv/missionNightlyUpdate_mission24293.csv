@@ -1,0 +1,5 @@
+MissionId,NumberOfLeads,IsMissionHybrid,CustomerId,isCustomerActive,ListType,Operation,ExecutionTimeMs,NumberOfLeadsProcessed,ExceptionType
+24293,50,False,1194,False,Private,FilterLoading,0,0,None
+24293,50,False,1194,False,Private,ReservationStatusUpdate,505,0,None
+24293,50,False,1194,False,Private,DeathStatusUpdate,116,0,None
+24293,50,False,1194,False,None,totalMissionTime,621,None,None

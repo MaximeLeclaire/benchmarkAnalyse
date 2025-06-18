@@ -1,0 +1,9 @@
+MissionId,NumberOfLeads,IsMissionHybrid,CustomerId,isCustomerActive,ListType,FilterLoading,ReservationStatusUpdate,DeathStatusUpdate,DeleteInvalidUnpaid,DisableInvalidAndStoplists,UpdateCurrentPaid,AddNewUnpaid,PurchaseUnpaid,CalculateLeads,MapcloudMarkers,totalMissionTime
+24472,61,False,1310,False,Privat,15,1128,274,None,None,None,None,None,None,None,1417
+24471,120,False,827,False,Privat,0,1178,217,None,None,None,None,None,None,None,1395
+24469,43,False,1268,False,Privat,0,862,198,None,None,None,None,None,None,None,1060
+24465,1250,False,1288,False,Privat,1,993,245,None,None,None,None,None,None,None,1239
+24460,93,False,1310,False,Privat,0,646,198,None,None,None,None,None,None,None,844
+24457,500,False,1310,False,Privat,0,875,198,None,None,None,None,None,None,None,1073
+24453,162,False,82,True,Privat,0,None,None,2998,None,27714,9652,None,18,None,40563
+24450,46,False,82,True,Privat,0,None,None,908,None,9392,8921,None,26,None,19433

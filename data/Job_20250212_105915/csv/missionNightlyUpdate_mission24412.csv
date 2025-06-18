@@ -1,0 +1,8 @@
+MissionId,NumberOfLeads,IsMissionHybrid,CustomerId,isCustomerActive,ListType,Operation,ExecutionTimeMs,NumberOfLeadsProcessed,ExceptionType
+24412,315,False,82,True,Private,FilterLoading,0,0,None
+24412,315,False,82,True,Private,DeleteInvalidUnpaid,695,0,None
+24412,315,False,82,True,Private,DeathStatusUpdate,113,0,None
+24412,315,False,82,True,Private,UpdateCurrentPaid,2653,0,None
+24412,315,False,82,True,Private,AddNewUnpaid,3308,25,None
+24412,315,False,82,True,Private,CalculateLeads,22,0,None
+24412,315,False,82,True,None,totalMissionTime,6791,None,None

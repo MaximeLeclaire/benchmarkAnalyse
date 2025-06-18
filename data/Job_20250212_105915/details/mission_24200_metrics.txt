@@ -1,0 +1,17 @@
+Mission Information:
+-------------------
+Mission ID: 24200:
+Number of Leads: 80
+Mission is Hybrid: False
+Mission Customer Id: 82
+Mission from active customer:True
+
+Performance Metrics:
+-------------------
+FilterLoading: 0ms
+DeathStatusUpdate: 120ms
+DeleteInvalidUnpaid: 479ms
+UpdateCurrentPaid: 2475ms
+AddNewUnpaid: 3338ms
+CalculateLeads: 35ms
+Total Mission Time: 6447ms

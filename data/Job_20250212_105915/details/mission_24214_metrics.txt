@@ -1,0 +1,17 @@
+Mission Information:
+-------------------
+Mission ID: 24214:
+Number of Leads: 229
+Mission is Hybrid: False
+Mission Customer Id: 82
+Mission from active customer:True
+
+Performance Metrics:
+-------------------
+FilterLoading: 0ms
+DeathStatusUpdate: 168ms
+DeleteInvalidUnpaid: 573ms
+UpdateCurrentPaid: 2711ms
+AddNewUnpaid: 3692ms
+CalculateLeads: 24ms
+Total Mission Time: 7168ms
